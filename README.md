@@ -1,2 +1,2 @@
 # Calculator
-A simple calculator using typescript.
+A simple calculator using typescript, node.js and inquirer.
